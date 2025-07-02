@@ -13,19 +13,14 @@ This Python script scrapes book information (title, price, stock, and rating) fr
 ```bash
 git clone https://github.com/YOUR_USERNAME/books-scraper.git
 cd books-scraper
+```
 2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 3️⃣ Run the script:
-
-bash
-Copy
-Edit
+```bash
 python scraper.py
+```
 The scraped data will be saved as books_YYYY-MM-DD.csv.
 
-📂 Example Output
-Sample output can be found in the sample_output/ folder.

@@ -1,4 +1,4 @@
-# 📚 Books to Scrape Web Scraper
+# Books to Scrape Web Scraper
 
 This Python script scrapes book information (title, price, stock, and rating) from [Books to Scrape](https://books.toscrape.com/).
 
@@ -9,16 +9,16 @@ This Python script scrapes book information (title, price, stock, and rating) fr
 
 ## How to Run
 
-1️⃣ Clone the repo:
+1 Clone the repo:
 ```bash
 git clone https://github.com/YOUR_USERNAME/books-scraper.git
 cd books-scraper
 ```
-2️⃣ Install dependencies:
+2 Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-3️⃣ Run the script:
+3 Run the script:
 ```bash
 python scraper.py
 ```
